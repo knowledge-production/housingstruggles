@@ -15,4 +15,4 @@
 
 ## Web site
 
-https://knowledge-production.github.io/forge/about.html
+https://knowledge-production.github.io/housingstruggles/about.html
