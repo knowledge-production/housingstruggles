@@ -3,6 +3,4 @@ layout: index
 title: home
 ---
 
-*The Forge* is an open community-reviewed publication platform dedicated to
-the advancement of public knowledge based on the skills, tools, and workflows
-that are firmly entrenched in the public domain.
+Housing struggles is the workshop we run at the moment in Mayday Rooms.
