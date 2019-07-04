@@ -1,7 +1,8 @@
 ---
-tag: housing-struggles
+layout: workshop
+workshop-id: housing-struggles
 title: Housing Struggles
-editors:
+curators:
   - Ana
   - Anthony
   - Chris
