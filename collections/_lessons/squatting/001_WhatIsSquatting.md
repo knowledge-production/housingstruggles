@@ -5,7 +5,7 @@ title: "What is squatting?"
 authors:
   - Ana
   - Chris
-  - Fanny
+  - Fani
   - Marcell
   - Matt
 ---
