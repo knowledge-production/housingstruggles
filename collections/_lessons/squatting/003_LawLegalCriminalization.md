@@ -1,7 +1,7 @@
 ---
 layout: lesson
 target-tutorial: squatting
-title: "Organizing and infrastructures"
+title: "Law, legal and criminalization"
 authors:
   - Ana
   - Chris
