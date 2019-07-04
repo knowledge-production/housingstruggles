@@ -1,9 +1,14 @@
 ---
 layout: tutorial
-tutorial-id: command-line
-title: Command Line
+tutorial-id: squatting
+title: Squatting
 authors:
- - Dennis Yi Tenen
+  - Ana
+  - Chris
+  - Fanny
+  - Marcell
+  - Matt
 image:
 ---
-Command line basics underlie all aspects of empowered human-computer interaction, from computational analysis to web design and data visualization. Integrate the command line into your daily routine to manipulate files and folders, to launch applications, and for simple system-related scripting as an advanced replacement for your finder (file explorer) and spotlight. Working on the command line is a core skill, it is simple, powerful, portable, hackable, and fun.
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
